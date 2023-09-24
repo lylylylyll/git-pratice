@@ -3,5 +3,5 @@
 
 void Student::print()
 {
-	cout << number << "-" << name;
+	cout << number << "-123-" << name;
 }

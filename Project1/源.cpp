@@ -5,7 +5,7 @@ using namespace std;
 int main()
 {
 
-
-	cout << "szu fortyyear";
+	string msg = "szu fortyyear";
+	cout << msg;
 
 }
